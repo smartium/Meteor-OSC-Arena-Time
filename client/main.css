@@ -1,0 +1,11 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+  background-color: #171715;
+  color: #00FF00;
+  font-family: Monoid;
+}
+
+.time {
+  font-size: 10em;
+}
